@@ -1,0 +1,5 @@
+La terminal es importante para un desarrollador 
+porque permite organizar archivos y carpetas de forma rápida. 
+También facilita el trabajo con proyectos y herramientas como Git.
+ Aprender comandos básicos ayuda a mejorar la productividad 
+y a tener más control sobre el sistema y los archivos del proyecto.
