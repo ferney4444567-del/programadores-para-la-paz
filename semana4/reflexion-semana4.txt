@@ -1,0 +1,15 @@
+Las tecnologías abiertas como Node.js permiten que las comunidades
+desarrollen sus propias herramientas tecnológicas sin depender 
+completamente de soluciones comerciales. 
+Esto facilita la creación de aplicaciones adaptadas a las necesidades 
+específicas de cada grupo o iniciativa ciudadana. Además, 
+al ser una tecnología gratuita y ampliamente utilizada, 
+reduce los costos de desarrollo y fomenta el aprendizaje colaborativo.
+
+Node.js cuenta con una gran comunidad de desarrolladores que comparte
+conocimientos y recursos de manera constante.
+Esto permite que más personas participen en la construcción de 
+soluciones digitales. También favorece la innovación y la autonomía
+tecnológica. Gracias a estas herramientas, las comunidades pueden
+crear plataformas para informar, organizar actividades y fortalecer 
+la participación ciudadana de forma eficiente y sostenible.
