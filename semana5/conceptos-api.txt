@@ -1,5 +1,8 @@
 CONCEPTOS SOBRE LA RUTA POST /reporte
-Esta ruta sirve para recibir información que envía un usuario al servidor. Cuando una persona envía un mensaje a través de la ruta /reporte, el servidor toma ese mensaje y responde confirmando que fue recibido correctamente.
+Esta ruta sirve para recibir información que envía un usuario al 
+servidor. Cuando una persona envía un mensaje a través de
+la ruta /reporte, el servidor toma ese mensaje y responde 
+confirmando que fue recibido correctamente.
 
 La línea:
     const mensaje = req.body.mensaje;
