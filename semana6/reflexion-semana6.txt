@@ -1,0 +1,11 @@
+Es importante que las plataformas tecnológicas puedan recibir 
+información de forma organizada porque así es más fácil procesarla
+ y responder a las necesidades de las personas. 
+ Cuando los datos llegan en un formato estructurado como JSON, 
+ se reduce el riesgo de errores y se mejora la comunicación entre 
+ el usuario y el sistema. Además, permite registrar reportes de manera 
+ clara y rápida. Esto ayuda a llevar un mejor control de las 
+ incidencias y facilita la toma de decisiones. También mejora 
+ la atención a la comunidad y hace que la información sea más fácil de 
+ consultar y analizar. En general, es una herramienta útil para ofrecer
+  servicios más eficientes y organizados.
