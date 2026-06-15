@@ -1,0 +1,4 @@
+Al consultar la ruta GET /reportes, el servidor muestra la lista de 
+reportes que han sido registrados. Si no hay reportes guardados,
+aparece un arreglo vacío ([]). Cuando se agregan reportes 
+con la ruta POST, estos se muestran con su id, tipo y descripción.
