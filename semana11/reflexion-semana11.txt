@@ -1,0 +1,9 @@
+Una plataforma que promueve la participación ciudadana necesita una base de 
+datos para almacenar la información de forma organizada y segura. 
+La autenticación permite identificar a los usuarios y controlar el acceso a 
+ciertas funciones. Esto ayuda a proteger la información y evita que personas
+no autorizadas realicen cambios. Además, la protección de datos sensibles 
+fortalece la confianza de la comunidad. También facilita el seguimiento de 
+las actividades y mantiene un registro de las acciones realizadas. 
+Con estas herramientas es posible ofrecer una plataforma más segura, 
+organizada y confiable para todos los participantes.
