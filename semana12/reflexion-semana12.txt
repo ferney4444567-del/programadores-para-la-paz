@@ -1,0 +1,12 @@
+Durante este curso aprendí cómo la tecnología puede ayudar a fortalecer la 
+participación ciudadana y la organización comunitaria. Comprendí la 
+importancia de desarrollar aplicaciones que permitan registrar información 
+de forma segura y organizada. También aprendí a utilizar Node.js, bases de 
+datos, Git y GitHub para crear proyectos funcionales. Entendí cómo la 
+automatización con herramientas como n8n puede facilitar procesos y mejorar 
+la comunicación. Además, conocí la importancia de proteger los datos 
+personales de los usuarios. Aprendí que un sistema bien diseñado puede 
+generar documentos y facilitar la toma de decisiones. Este curso me permitió 
+integrar diferentes tecnologías en un solo proyecto. Considero que estos 
+conocimientos serán útiles para desarrollar soluciones digitales que 
+beneficien a la comunidad.
